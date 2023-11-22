@@ -6,7 +6,7 @@ sentencepiece==0.1.99
 shortuuid==1.0.1
 accelerate==0.21.0
 peft==0.4.0
-bitsandbytes==0.41.0
+bitsandbytes-cuda111
 pydantic==1.9.0
 markdown2==2.4.0
 numpy==1.21.4
