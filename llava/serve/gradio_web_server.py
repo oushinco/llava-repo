@@ -6,6 +6,7 @@ import time
 
 import gradio as gr
 import requests
+import base64
 
 from llava.conversation import (default_conversation, conv_templates,
                                    SeparatorStyle)
